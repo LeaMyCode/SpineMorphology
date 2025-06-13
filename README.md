@@ -1,6 +1,7 @@
 # SpineMorphology
 Analyze spine types and functional synapses with imaging data. For this, you need cells stained for pre-and postsynapses as well as neurons (so that you spines are visible). Analyses of only spine types without functional synpases is possible. 
 Data obtained with the SpineJ plugin are used for morphological features of dendritic spines (Levet et al., 2020). To access the neck and head coordinates, the source code of SpineJ was adapted in the NeuronDisplayDialog class. The altered .jar can be found above.
+Additionally, a code using manual obtained spine features (measuring width of neck and heads in FIJI) can be found above (ManualSpineTypes).
 
 
 ## Example of spine types and functional synapses
